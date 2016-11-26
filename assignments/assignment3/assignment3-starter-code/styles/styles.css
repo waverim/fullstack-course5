@@ -50,3 +50,11 @@ input[type="text"] {
     transform: rotate(360deg);
   }
 }
+
+found-items {
+    width: 100%;
+    float: left;
+}
+.error {
+    color: red;
+}
